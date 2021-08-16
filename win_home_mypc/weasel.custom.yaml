@@ -7,3 +7,4 @@ customization:
 patch:
   "style/color_scheme": dark_temple
   "style/horizontal": true
+  "style/display_tray_icon": true
