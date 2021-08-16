@@ -1,7 +1,7 @@
 var:
-  last_build_time: 1612506510
+  last_build_time: 1626329954
   option:
-    full_shape: true
+    full_shape: false
   previously_selected_schema: wubi86
   schema_access_time:
     wubi86: 1611232667
